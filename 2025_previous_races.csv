@@ -1,0 +1,106 @@
+position,driver,nationality,team,number,time,points,race
+,,,,,,,=== Australian Gp ===
+1,Lando Norris,United Kingdom,McLaren,4,1:42:06.304,25,Australian Gp
+20,Isack Hadjar,France,RB,6,DNF,0,Australian Gp
+18,Carlos Sainz Jr.,Spain,Williams,55,DNF,0,Australian Gp
+17,Fernando Alonso,Spain,Aston Martin,14,DNF,0,Australian Gp
+16,Gabriel Bortoleto,Brazil,Kick Sauber,5,DNF,0,Australian Gp
+15,Liam Lawson,New Zealand,Red Bull,30,DNF,0,Australian Gp
+14,Oliver Bearman,United Kingdom,Haas,87,+40.351s,0,Australian Gp
+13,Esteban Ocon,France,Haas,31,+33.161s,0,Australian Gp
+12,Yuki Tsunoda,Japan,RB,22,+29.884s,0,Australian Gp
+11,Pierre Gasly,France,Alpine,10,+26.502s,0,Australian Gp
+19,Jack Doohan,Australia,Alpine,7,DNF,0,Australian Gp
+9,Oscar Piastri,Australia,McLaren,81,+20.448s,2,Australian Gp
+10,Lewis Hamilton,United Kingdom,Ferrari,44,+22.473s,1,Australian Gp
+3,George Russell,United Kingdom,Mercedes,63,+8.481s,15,Australian Gp
+4,Andrea Kimi Antonelli,Italy,Mercedes,12,+10.135s,12,Australian Gp
+2,Max Verstappen,Netherlands,Red Bull,1,+0.895s,18,Australian Gp
+6,Lance Stroll,Canada,Aston Martin,18,+17.413s,8,Australian Gp
+7,Nico Hülkenberg,Germany,Kick Sauber,27,+18.423s,6,Australian Gp
+8,Charles Leclerc,Monaco,Ferrari,16,+19.826s,4,Australian Gp
+5,Alexander Albon,Thailand,Williams,23,+12.773s,10,Australian Gp
+,,,,,,,=== Bahrain Gp ===
+18,Gabriel Bortoleto,Brazil,Kick Sauber,5,+66.872s,0,Bahrain Gp
+12,Alexander Albon,Thailand,Williams,23,+48.839s,0,Bahrain Gp
+17,Lance Stroll,Canada,Aston Martin,18,+65.489s,0,Bahrain Gp
+16,Liam Lawson,New Zealand,RB,30,+64.435s,0,Bahrain Gp
+15,Fernando Alonso,Spain,Aston Martin,14,+60.340s,0,Bahrain Gp
+14,Jack Doohan,Australia,Alpine,7,+57.806s,0,Bahrain Gp
+13,Isack Hadjar,France,RB,6,+56.314s,0,Bahrain Gp
+11,Andrea Kimi Antonelli,Italy,Mercedes,12,+48.016s,0,Bahrain Gp
+7,Pierre Gasly,France,Alpine,10,+36.002s,6,Bahrain Gp
+9,Yuki Tsunoda,Japan,Red Bull,22,+45.061s,2,Bahrain Gp
+8,Esteban Ocon,France,Haas,31,+44.244s,4,Bahrain Gp
+6,Max Verstappen,Netherlands,Red Bull,1,+34.395s,8,Bahrain Gp
+5,Lewis Hamilton,United Kingdom,Ferrari,44,+27.993s,10,Bahrain Gp
+4,Charles Leclerc,Monaco,Ferrari,16,+19.679s,12,Bahrain Gp
+3,Lando Norris,United Kingdom,McLaren,4,+16.273s,15,Bahrain Gp
+19,Carlos Sainz Jr.,Spain,Williams,55,DNF,0,Bahrain Gp
+10,Oliver Bearman,United Kingdom,Haas,87,+47.594s,1,Bahrain Gp
+20,Nico Hülkenberg,Germany,Kick Sauber,27,DNF,0,Bahrain Gp
+1,Oscar Piastri,Australia,McLaren,81,1:35:39.435,25,Bahrain Gp
+2,George Russell,United Kingdom,Mercedes,63,+15.499s,18,Bahrain Gp
+,,,,,,,=== Saudi Arabia Gp ===
+2,Max Verstappen,Netherlands,Red Bull,1,+2.843s,18,Saudi Arabia Gp
+18,Gabriel Bortoleto,Brazil,Kick Sauber,5,+1 Lap,0,Saudi Arabia Gp
+17,Jack Doohan,Australia,Alpine,7,+1 Lap,0,Saudi Arabia Gp
+16,Lance Stroll,Canada,Aston Martin,18,+1 Lap,0,Saudi Arabia Gp
+15,Nico Hülkenberg,Germany,Kick Sauber,27,+1 Lap,0,Saudi Arabia Gp
+14,Esteban Ocon,France,Haas,31,+99.723s,0,Saudi Arabia Gp
+13,Oliver Bearman,United Kingdom,Haas,87,+79.194s,0,Saudi Arabia Gp
+12,Liam Lawson,New Zealand,RB,30,+78.451s,0,Saudi Arabia Gp
+11,Fernando Alonso,Spain,Aston Martin,14,+75.917s,0,Saudi Arabia Gp
+9,Alexander Albon,Thailand,Williams,23,+66.515s,2,Saudi Arabia Gp
+8,Carlos Sainz Jr.,Spain,Williams,55,+64.630s,4,Saudi Arabia Gp
+7,Lewis Hamilton,United Kingdom,Ferrari,44,+39.073s,6,Saudi Arabia Gp
+6,Andrea Kimi Antonelli,Italy,Mercedes,12,+34.688s,8,Saudi Arabia Gp
+5,George Russell,United Kingdom,Mercedes,63,+27.236s,10,Saudi Arabia Gp
+4,Lando Norris,United Kingdom,McLaren,4,+9.196s,12,Saudi Arabia Gp
+3,Charles Leclerc,Monaco,Ferrari,16,+8.104s,15,Saudi Arabia Gp
+1,Oscar Piastri,Australia,McLaren,81,1:21:06.758,25,Saudi Arabia Gp
+10,Isack Hadjar,France,RB,6,+67.091s,1,Saudi Arabia Gp
+20,Pierre Gasly,France,Alpine,10,DNF,0,Saudi Arabia Gp
+19,Yuki Tsunoda,Japan,Red Bull,22,DNF,0,Saudi Arabia Gp
+,,,,,,,=== Shanghai Gp ===
+19,Yuki Tsunoda,Japan,RB,22,+1 Lap,0,Shanghai Gp
+17,Gabriel Bortoleto,Brazil,Kick Sauber,5,+1 Lap,0,Shanghai Gp
+16,Liam Lawson,New Zealand,Red Bull,30,+81.147s,0,Shanghai Gp
+15,Jack Doohan,Australia,Alpine,7,+88.401s,0,Shanghai Gp
+14,Isack Hadjar,France,RB,6,+78.875s,0,Shanghai Gp
+13,Carlos Sainz Jr.,Spain,Williams,55,+76.387s,1,Shanghai Gp
+12,Lance Stroll,Canada,Aston Martin,18,+70.204s,2,Shanghai Gp
+11,Pierre Gasly,France,Alpine,10,+56 Laps,0,Shanghai Gp
+10,Oliver Bearman,United Kingdom,Haas,87,+61.303s,4,Shanghai Gp
+9,Alexander Albon,Thailand,Williams,23,+56.321s,6,Shanghai Gp
+8,Andrea Kimi Antonelli,Italy,Mercedes,12,+53.748s,8,Shanghai Gp
+7,Esteban Ocon,France,Haas,31,+49.969s,10,Shanghai Gp
+6,Lewis Hamilton,United Kingdom,Ferrari,44,+56 Laps,0,Shanghai Gp
+5,Charles Leclerc,Monaco,Ferrari,16,+56 Laps,0,Shanghai Gp
+4,Max Verstappen,Netherlands,Red Bull,1,+16.656s,12,Shanghai Gp
+3,George Russell,United Kingdom,Mercedes,63,+11.097s,15,Shanghai Gp
+2,Lando Norris,United Kingdom,McLaren,4,+9.748s,18,Shanghai Gp
+1,Oscar Piastri,Australia,McLaren,81,1:30:55.026,25,Shanghai Gp
+20,Fernando Alonso,Spain,Aston Martin,14,DNF,0,Shanghai Gp
+18,Nico Hülkenberg,Germany,Kick Sauber,27,+1 Lap,0,Shanghai Gp
+,,,,,,,=== Suzuka Gp ===
+20,Lance Stroll,Canada,Aston Martin,18,+1 Lap,0,Suzuka Gp
+1,Max Verstappen,Netherlands,Red Bull,1,1:22:06.983,25,Suzuka Gp
+18,Esteban Ocon,France,Haas,31,+83.438s,0,Suzuka Gp
+17,Liam Lawson,New Zealand,RB,30,+82.734s,0,Suzuka Gp
+16,Nico Hülkenberg,Germany,Kick Sauber,27,+81.957s,0,Suzuka Gp
+15,Jack Doohan,Australia,Alpine,7,+81.314s,0,Suzuka Gp
+14,Carlos Sainz Jr.,Spain,Williams,55,+74.129s,0,Suzuka Gp
+13,Pierre Gasly,France,Alpine,10,+62.122s,0,Suzuka Gp
+12,Yuki Tsunoda,Japan,Red Bull,22,+58.401s,0,Suzuka Gp
+19,Gabriel Bortoleto,Brazil,Kick Sauber,5,+83.897s,0,Suzuka Gp
+11,Fernando Alonso,Spain,Aston Martin,14,+57.333s,0,Suzuka Gp
+8,Isack Hadjar,France,RB,6,+37.134s,4,Suzuka Gp
+7,Lewis Hamilton,United Kingdom,Ferrari,44,+29.182s,6,Suzuka Gp
+6,Andrea Kimi Antonelli,Italy,Mercedes,12,+18.671s,8,Suzuka Gp
+5,George Russell,United Kingdom,Mercedes,63,+17.362s,10,Suzuka Gp
+4,Charles Leclerc,Monaco,Ferrari,16,+16.097s,12,Suzuka Gp
+3,Oscar Piastri,Australia,McLaren,81,+2.129s,15,Suzuka Gp
+2,Lando Norris,United Kingdom,McLaren,4,+1.423s,18,Suzuka Gp
+9,Alexander Albon,Thailand,Williams,23,+40.367s,2,Suzuka Gp
+10,Oliver Bearman,United Kingdom,Haas,87,+54.529s,1,Suzuka Gp
