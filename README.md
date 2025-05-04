@@ -88,7 +88,7 @@ python miami_f1.py
 
 ## Customization
 
-- Adjustable parameters in the script:
+Adjustable parameters in the script:
 
 **Simulation parameters**
 sim_count = 1000 # Number of race simulations
@@ -105,6 +105,6 @@ backmarker_uncertainty = 2.5
 Methodology
 Data Collection:
 
-### License
+## License
 
 This project is provided for educational purposes under the MIT License.
