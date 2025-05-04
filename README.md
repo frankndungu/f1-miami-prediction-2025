@@ -90,20 +90,13 @@ python miami_f1.py
 
 Adjustable parameters in the script:
 
-**Simulation parameters**
-sim_count = 1000 # Number of race simulations
+- **Simulation parameters**
+   sim_count = 1000 # Number of race simulations
 
-**Prediction weights**
+- **Prediction weights**
 form_weight = 0.6 # Recent performance importance
 track_weight = 0.3 # Track history importance
 grid_weight = 0.1 # Qualifying position importance
-
-**Uncertainty factors**
-top_team_uncertainty = 1.5
-midfield_uncertainty = 2.0
-backmarker_uncertainty = 2.5
-Methodology
-Data Collection:
 
 ## License
 
